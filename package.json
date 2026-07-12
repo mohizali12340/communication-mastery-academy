@@ -1,0 +1,21 @@
+{
+  "name": "communication-mastery-academy",
+  "version": "1.0.0",
+  "description": "A 90-day communication skills learning platform \u2014 dashboard, curriculum, lessons, quizzes, streaks, XP, and achievements.",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "lucide-react": "^0.383.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.1",
+    "vite": "^5.4.0"
+  }
+}
